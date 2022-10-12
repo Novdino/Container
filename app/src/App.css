@@ -1,0 +1,61 @@
+.root {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: 30px auto;
+  overflow: hidden;
+  height: 100%;
+}
+
+.Highlight{
+  background-color: aqua;
+}
+
+.Highlight2{
+  background-color: orange;
+}
+
+.topbar{
+  grid-row: 1;
+  grid-column-start: 1;
+  grid-column-end: 5;
+}
+
+.topbar > *{
+  display: inline-block;
+}
+
+.Table{
+  width: 100%;
+}
+
+.bar1{
+  grid-row-start: 2;
+  grid-column: 1;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.bar2{
+  grid-row-start: 2;
+  grid-column: 2;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.bar3{
+  grid-row-start: 2;
+  grid-column: 3;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.bar4{
+  grid-row-start: 2;
+  grid-column: 4;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.bar4>div>div{
+  display: inline-block;
+}

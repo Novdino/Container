@@ -1,0 +1,225 @@
+[Experiment 500 games] 2Rand_1Random2AgentI0 09/29/2022, 13:00:29
+Sim Ended (0.01 mins)
+Length > 	37.154 	[std] 35.15876] Turns
+Auctioned > 	7.518 	[std] 9.78538 Containers
+SelfBuy %> 	[0.41085, 0.39673, 0.41153]                        [std] [0.36784, 0.37192, 0.377]
+Overbid > 	[9.09908, 8.45874, 9.07127]                        [std] [8.42155, 7.55262, 6.96497]
+
+PCP Produce > 	[1.3593, 1.3627, 1.30007]                          [std] [0.59977, 0.63644, 0.62748]
+PCP Wares > 	[0.48017, 0.49347, 0.46647]                        [std] [1.06344, 0.95045, 0.9526]
+PCP SellAuct > 	[-0.11414, -0.20604, 0.09934]                      [std] [2.9198, 2.7229, 2.49056]
+PCP BuyAuct > 	[-0.15105, -0.42714, -0.21418]                     [std] [2.2432, 2.21034, 1.75506]
+
+Produce Rev > 	[1.87654, 1.88254, 1.81998]                        [std] [0.60136, 0.64032, 0.62749]
+Produce Cost > 	[0.51724, 0.51984, 0.51991]                        [std] [0.03171, 0.03431, 0.03572]
+Wares Rev > 	[3.00993, 2.98922, 3.02055]                        [std] [0.72739, 0.6687, 0.724]
+Wares Cost > 	[2.52976, 2.49575, 2.55407]                        [std] [0.69714, 0.64174, 0.69656]
+SellAuct Rev > 	[3.32576, 3.30988, 3.51533]                        [std] [2.78897, 2.64981, 2.43607]
+SellAuct Cost> 	[3.4399, 3.51592, 3.41599]                         [std] [0.67916, 0.65857, 0.72069]
+
+% Produce> 	[0.89441, 0.61614, 0.56173]                        [std] [2.5052, 1.96848, 2.7024]
+% Wares> 	[0.21803, 0.21155, 0.14751]                        [std] [1.12305, 0.84183, 1.0661]
+% SellAuct> 	[-0.11522, 0.1131, 0.24677]                        [std] [2.57679, 1.71234, 2.38351]
+% BuyAuct> 	[0.00278, 0.0592, 0.04399]                         [std] [1.64133, 1.07511, 1.30632]
+
+Player Random2Agent, Placements [230, 145, 125], Avg Score 50.36 [std] 40.27, Avg Normalised Score 0.45, [std] 0.44
+ Produce > 	0.22898 [std 0.17076] 
+ Buy Produce > 	0.1492 [std 0.14375] 
+ Buy Wares > 	0.10348 [std 0.10597] 
+ Auction > 	0.04916 [std 0.05917] 
+ Pass > 	0.46917 [std 0.29069] 
+
+Player Random2Agent, Placements [221, 126, 153], Avg Score 49.39 [std] 40.10, Avg Normalised Score 0.42, [std] 0.45
+ Produce > 	0.2257 [std 0.17106] 
+ Buy Produce > 	0.14635 [std 0.13684] 
+ Buy Wares > 	0.10832 [std 0.11112] 
+ Auction > 	0.05072 [std 0.06136] 
+ Pass > 	0.46892 [std 0.28584] 
+
+Player Random2Agent, Placements [197, 155, 148], Avg Score 49.80 [std] 39.99, Avg Normalised Score 0.39, [std] 0.43
+ Produce > 	0.21612 [std 0.16508] 
+ Buy Produce > 	0.15245 [std 0.14078] 
+ Buy Wares > 	0.10559 [std 0.10753] 
+ Auction > 	0.04957 [std 0.05899] 
+ Pass > 	0.47626 [std 0.292] 
+
+[Experiment 500 games] 2Best_1Random2AgentI0 09/29/2022, 13:00:30
+Sim Ended (0.03 mins)
+Length > 	100.0 	[std] 0.0] Turns
+Auctioned > 	36.774 	[std] 4.25616 Containers
+SelfBuy %> 	[0.38602, 0.31153, 0.29956]                        [std] [0.31983, 0.1874, 0.18682]
+Overbid > 	[5.58057, 4.40501, 4.5515]                         [std] [1.8108, 2.88452, 3.03794]
+
+PCP Produce > 	[0.4212, 0.49236, 0.49142]                         [std] [0.07306, 0.01482, 0.01641]
+PCP Wares > 	[2.42227, 1.0, 1.0]                                [std] [0.37913, 0.0, 0.0]
+PCP SellAuct > 	[1.55135, 3.04778, 3.08364]                        [std] [1.62874, 0.78519, 0.80978]
+PCP BuyAuct > 	[-0.97943, 1.28503, 1.28435]                       [std] [1.32348, 1.17638, 1.12377]
+
+Produce Rev > 	[1.0, 1.0, 1.0]                                    [std] [0.0, 0.0, 0.0]
+Produce Cost > 	[0.5788, 0.50764, 0.50858]                         [std] [0.07306, 0.01482, 0.01641]
+Wares Rev > 	[3.43146, 2.0, 2.0]                                [std] [0.37307, 0.0, 0.0]
+Wares Cost > 	[1.00919, 1.0, 1.0]                                [std] [0.03692, 0.0, 0.0]
+SellAuct Rev > 	[3.55135, 5.5374, 5.56812]                         [std] [1.62874, 0.76143, 0.79652]
+SellAuct Cost> 	[2.0, 2.48962, 2.48447]                            [std] [0.0, 0.32659, 0.31171]
+
+% Produce> 	[0.06887, 0.11044, 0.11121]                        [std] [0.61457, 0.03721, 0.03921]
+% Wares> 	[0.60819, 0.17031, 0.17342]                        [std] [5.08903, 0.09173, 0.08411]
+% SellAuct> 	[0.30039, 0.56277, 0.56125]                        [std] [1.33699, 0.14492, 0.13753]
+% BuyAuct> 	[0.02255, 0.15648, 0.15412]                        [std] [6.41962, 0.12701, 0.12573]
+
+Player Random2Agent, Placements [1, 18, 481], Avg Score 112.31 [std] 20.92, Avg Normalised Score 0.01, [std] 0.08
+ Produce > 	0.13583 [std 0.07233] 
+ Buy Produce > 	0.21478 [std 0.08037] 
+ Buy Wares > 	0.11133 [std 0.05674] 
+ Auction > 	0.07968 [std 0.04018] 
+ Pass > 	0.45837 [std 0.09379] 
+
+Player BestAgent, Placements [254, 241, 5], Avg Score 172.61 [std] 22.32, Avg Normalised Score 0.82, [std] 0.25
+ Produce > 	0.28687 [std 0.07219] 
+ Buy Produce > 	0.18168 [std 0.06513] 
+ Buy Wares > 	0.25808 [std 0.06223] 
+ Auction > 	0.24339 [std 0.05721] 
+ Pass > 	0.02999 [std 0.07359] 
+
+Player BestAgent, Placements [245, 241, 14], Avg Score 172.40 [std] 22.62, Avg Normalised Score 0.81, [std] 0.27
+ Produce > 	0.28899 [std 0.0737] 
+ Buy Produce > 	0.18662 [std 0.06843] 
+ Buy Wares > 	0.25681 [std 0.06067] 
+ Auction > 	0.24082 [std 0.05585] 
+ Pass > 	0.02676 [std 0.06489] 
+
+[Experiment 500 games] 2History_1Random2AgentI0 09/29/2022, 13:00:32
+Sim Ended (0.05 mins)
+Length > 	100.0 	[std] 0.0] Turns
+Auctioned > 	38.356 	[std] 5.33153 Containers
+SelfBuy %> 	[0.41359, 0.3117, 0.32257]                         [std] [0.30632, 0.19184, 0.1984]
+Overbid > 	[5.73469, 4.47902, 4.68114]                        [std] [1.96258, 2.92953, 3.05397]
+
+PCP Produce > 	[0.79159, 0.52272, 0.51948]                        [std] [0.36031, 0.12143, 0.10754]
+PCP Wares > 	[2.38585, 1.10081, 1.10908]                        [std] [0.39603, 0.28073, 0.30858]
+PCP SellAuct > 	[1.15399, 2.85743, 2.84694]                        [std] [1.59337, 0.81925, 0.82091]
+PCP BuyAuct > 	[-0.96375, 1.2407, 1.32235]                        [std] [1.32254, 1.19074, 1.11453]
+
+Produce Rev > 	[1.30742, 1.03231, 1.03262]                        [std] [0.36267, 0.12887, 0.12156]
+Produce Cost > 	[0.51583, 0.50959, 0.51314]                        [std] [0.02947, 0.02115, 0.02997]
+Wares Rev > 	[3.43634, 2.24316, 2.2429]                         [std] [0.3759, 0.36867, 0.38528]
+Wares Cost > 	[1.05049, 1.14235, 1.13381]                        [std] [0.13619, 0.24086, 0.23857]
+SellAuct Rev > 	[3.44125, 5.48857, 5.46727]                        [std] [1.52692, 0.73677, 0.74879]
+SellAuct Cost> 	[2.28726, 2.63114, 2.62034]                        [std] [0.44895, 0.40995, 0.41062]
+
+% Produce> 	[0.27404, 0.11566, 0.11462]                        [std] [0.92041, 0.04222, 0.03948]
+% Wares> 	[0.93673, 0.19369, 0.20403]                        [std] [3.30909, 0.10315, 0.11978]
+% SellAuct> 	[0.2934, 0.53837, 0.51571]                         [std] [1.44114, 0.16384, 0.16103]
+% BuyAuct> 	[-0.50418, 0.15228, 0.16564]                       [std] [4.58835, 0.13568, 0.13252]
+
+Player Random2Agent, Placements [3, 22, 475], Avg Score 114.84 [std] 20.91, Avg Normalised Score 0.02, [std] 0.10
+ Produce > 	0.13286 [std 0.07696] 
+ Buy Produce > 	0.20402 [std 0.07879] 
+ Buy Wares > 	0.11744 [std 0.0546] 
+ Auction > 	0.08409 [std 0.0373] 
+ Pass > 	0.46158 [std 0.10771] 
+
+Player HistoryAgent, Placements [242, 245, 13], Avg Score 174.76 [std] 23.89, Avg Normalised Score 0.80, [std] 0.27
+ Produce > 	0.29295 [std 0.07264] 
+ Buy Produce > 	0.16983 [std 0.06572] 
+ Buy Wares > 	0.26048 [std 0.06471] 
+ Auction > 	0.24442 [std 0.06017] 
+ Pass > 	0.03232 [std 0.08179] 
+
+Player HistoryAgent, Placements [255, 233, 12], Avg Score 174.39 [std] 23.73, Avg Normalised Score 0.80, [std] 0.28
+ Produce > 	0.2952 [std 0.0759] 
+ Buy Produce > 	0.17875 [std 0.06662] 
+ Buy Wares > 	0.25058 [std 0.07113] 
+ Auction > 	0.23402 [std 0.06509] 
+ Pass > 	0.04145 [std 0.10094] 
+
+[Experiment 250.0 games] 1Best_2Random2AgentI0 09/29/2022, 13:00:34
+Sim Ended (0.01 mins)
+Length > 	80.996 	[std] 30.58241] Turns
+Auctioned > 	22.848 	[std] 10.90619 Containers
+SelfBuy %> 	[0.43878, 0.44431, 0.19408]                        [std] [0.35111, 0.37079, 0.15883]
+Overbid > 	[6.64018, 7.04681, 5.03441]                        [std] [2.92237, 3.44166, 3.61085]
+
+PCP Produce > 	[1.29674, 1.28852, 0.48047]                        [std] [0.4801, 0.47886, 0.03293]
+PCP Wares > 	[1.34239, 1.26467, 1.0]                            [std] [0.63574, 0.67161, 0.0]
+PCP SellAuct > 	[0.63912, 0.57439, 3.10745]                        [std] [2.64567, 2.70402, 0.94142]
+PCP BuyAuct > 	[-0.64687, -0.77651, 0.66918]                      [std] [1.71997, 1.71665, 1.08165]
+
+Produce Rev > 	[1.83729, 1.83339, 1.0]                            [std] [0.47593, 0.47066, 0.0]
+Produce Cost > 	[0.54056, 0.54487, 0.51953]                        [std] [0.04513, 0.0461, 0.03293]
+Wares Rev > 	[3.35964, 3.32892, 2.0]                            [std] [0.43105, 0.42613, 0.0]
+Wares Cost > 	[2.01725, 2.06424, 1.0]                            [std] [0.47897, 0.49249, 0.0]
+SellAuct Rev > 	[3.4008, 3.30664, 6.52905]                         [std] [2.52902, 2.66677, 0.84151]
+SellAuct Cost> 	[2.76167, 2.73225, 3.4216]                         [std] [0.66926, 0.66114, 0.32431]
+
+% Produce> 	[0.84724, 0.72125, 0.1535]                         [std] [2.78488, 1.80975, 0.22693]
+% Wares> 	[0.71096, 0.66758, 0.10009]                        [std] [1.89029, 2.11504, 0.09548]
+% SellAuct> 	[-0.09574, 0.05459, 0.70559]                       [std] [1.7959, 1.24458, 0.24514]
+% BuyAuct> 	[-0.46246, -0.44342, 0.04082]                      [std] [3.64757, 3.34346, 0.06893]
+
+Player Random2Agent, Placements [22, 118, 110], Avg Score 98.49 [std] 38.37, Avg Normalised Score 0.27, [std] 0.33
+ Produce > 	0.24586 [std 0.08493] 
+ Buy Produce > 	0.22006 [std 0.10478] 
+ Buy Wares > 	0.10514 [std 0.06187] 
+ Auction > 	0.06507 [std 0.04135] 
+ Pass > 	0.36388 [std 0.13733] 
+
+Player Random2Agent, Placements [28, 88, 134], Avg Score 96.85 [std] 39.55, Avg Normalised Score 0.24, [std] 0.35
+ Produce > 	0.23875 [std 0.09732] 
+ Buy Produce > 	0.2159 [std 0.10317] 
+ Buy Wares > 	0.11096 [std 0.06171] 
+ Auction > 	0.06965 [std 0.04268] 
+ Pass > 	0.36474 [std 0.14879] 
+
+Player BestAgent, Placements [204, 42, 4], Avg Score 133.62 [std] 53.16, Avg Normalised Score 0.92, [std] 0.22
+ Produce > 	0.21911 [std 0.13106] 
+ Buy Produce > 	0.14196 [std 0.0862] 
+ Buy Wares > 	0.29799 [std 0.11062] 
+ Auction > 	0.27558 [std 0.10141] 
+ Pass > 	0.06536 [std 0.09571] 
+
+[Experiment 250.0 games] 1History_2Random2AgentI0 09/29/2022, 13:00:35
+Sim Ended (0.01 mins)
+Length > 	76.704 	[std] 33.9238] Turns
+Auctioned > 	22.892 	[std] 12.50217 Containers
+SelfBuy %> 	[0.40621, 0.40016, 0.17171]                        [std] [0.34607, 0.34047, 0.15506]
+Overbid > 	[6.89576, 7.24194, 6.68228]                        [std] [2.91306, 3.5234, 5.76507]
+
+PCP Produce > 	[1.37148, 1.39028, 0.78882]                        [std] [0.52019, 0.49822, 0.38747]
+PCP Wares > 	[1.25727, 1.33639, 0.95273]                        [std] [0.67385, 0.69364, 0.42956]
+PCP SellAuct > 	[0.28847, 0.41108, 3.11738]                        [std] [2.30064, 2.37464, 1.11139]
+PCP BuyAuct > 	[-0.60245, -0.64997, 1.00981]                      [std] [1.73436, 1.69116, 1.33378]
+
+Produce Rev > 	[1.89164, 1.91071, 1.33863]                        [std] [0.52445, 0.50309, 0.39944]
+Produce Cost > 	[0.52016, 0.52043, 0.54981]                        [std] [0.02915, 0.02994, 0.06882]
+Wares Rev > 	[3.33233, 3.36461, 2.81944]                        [std] [0.46516, 0.50255, 0.52177]
+Wares Cost > 	[2.07507, 2.02822, 1.86671]                        [std] [0.54224, 0.58347, 0.37677]
+SellAuct Rev > 	[3.54749, 3.68544, 6.53259]                        [std] [2.24205, 2.37303, 1.04238]
+SellAuct Cost> 	[3.25902, 3.27436, 3.41521]                        [std] [0.61332, 0.6431, 0.37303]
+
+% Produce> 	[0.6917, 0.55414, 0.24255]                         [std] [1.52958, 2.58192, 0.28017]
+% Wares> 	[0.38366, 0.39271, 0.12985]                        [std] [0.94464, 1.36328, 0.12207]
+% SellAuct> 	[0.17427, 0.04084, 0.55464]                        [std] [0.98356, 1.30516, 0.27754]
+% BuyAuct> 	[-0.24963, 0.01231, 0.07296]                       [std] [2.03668, 3.96583, 0.09952]
+
+Player Random2Agent, Placements [26, 106, 118], Avg Score 94.76 [std] 42.07, Avg Normalised Score 0.25, [std] 0.34
+ Produce > 	0.24727 [std 0.11384] 
+ Buy Produce > 	0.19827 [std 0.1071] 
+ Buy Wares > 	0.1191 [std 0.07528] 
+ Auction > 	0.07209 [std 0.04775] 
+ Pass > 	0.36326 [std 0.1388] 
+
+Player Random2Agent, Placements [23, 106, 121], Avg Score 94.21 [std] 41.39, Avg Normalised Score 0.24, [std] 0.33
+ Produce > 	0.2526 [std 0.10919] 
+ Buy Produce > 	0.19729 [std 0.10203] 
+ Buy Wares > 	0.11871 [std 0.06951] 
+ Auction > 	0.07245 [std 0.04585] 
+ Pass > 	0.35894 [std 0.15435] 
+
+Player HistoryAgent, Placements [203, 37, 10], Avg Score 134.38 [std] 61.06, Avg Normalised Score 0.90, [std] 0.26
+ Produce > 	0.27985 [std 0.1556] 
+ Buy Produce > 	0.12049 [std 0.08822] 
+ Buy Wares > 	0.26851 [std 0.12615] 
+ Auction > 	0.24747 [std 0.11444] 
+ Pass > 	0.08367 [std 0.11618] 
+
